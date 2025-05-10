@@ -1,3 +1,3 @@
-## Hi there!!! 👋
+<h1> Hi there!!! 👋</h1>
 
-![:3](images/scale_1200.jpg)
+<img src="images/scale_1200.jpg" width="600" alt=":3" />
