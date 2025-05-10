@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![:3](https://myoctocat.com/assets/images/base-octocat.svg)
+![:3](images/scale_1200.jpg)
